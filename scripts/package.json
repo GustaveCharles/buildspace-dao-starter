@@ -1,4 +1,7 @@
 {
   "name": "mydao-scripts",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
 }
